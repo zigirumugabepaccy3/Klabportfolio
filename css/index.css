@@ -1,0 +1,145 @@
+.headerall{
+    background-color: brown;
+    height: 5rem;
+    width: 100%;
+    margin-top: -23px;
+}
+.logo img{
+margin-top: -3cm;
+height: 2cm;
+width: 2cm;
+}
+.navcontent ul{
+    display: flex;
+    gap: 1cm;
+    margin-top: -1.5cm;
+    margin-left: 15cm;
+    list-style: none;
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li a:hover{
+    color: rgb(131, 120, 141);
+}
+.pc1 img{
+    height: 10cm;
+    width: 10cm;
+}
+.maincontainer{
+    display: flex;
+    margin-top: 3cm;
+    margin-left: 2cm;
+    gap: 1cm;
+}
+.images img{
+    height: 100px;
+    width: 100px;
+    margin-left: 6cm;
+}
+.content1{
+    font-size: 18px;
+}
+.content1 p{
+    font-size: 25px;
+
+}
+.copylogo img{
+    height: 1cm;
+    width: 1cm;
+    margin-left: 12cm;
+}
+.copycontent p{
+    margin-left: 13cm;
+    margin-top: -26px;
+}
+.skillback1{
+    background-color: brown;
+    height: 40px;
+    width: 10cm;
+    margin-top: 3cm;
+    margin-left: 10cm;
+    border-radius: 10px;
+}
+.skillback2{
+    background-color:white;
+    height: 20px;
+    width: 8.5cm;
+    margin-left: 410px;
+    border-radius: 10px;
+    margin-top: -30px;
+}
+.skillback3{
+    background-color: red;
+    height: 20px;
+    width: 5cm;
+    margin-left: -0.5px;
+    border-radius: 10px;
+    margin-top: -30px;
+}
+.skillback4{
+    background-color: red;
+    height: 20px;
+    width: 7cm;
+    margin-left: -0.5px;
+    border-radius: 10px;
+    margin-top: -30px;
+}
+.skillback5{
+    background-color: red;
+    height: 20px;
+    width: 8cm;
+    margin-left: -0.5px;
+    border-radius: 10px;
+    margin-top: -30px;
+}
+.top{
+    margin-left: 13cm;
+}
+.language1{
+    margin-top: -9cm;
+    gap: 3cm;
+    margin-left: 7cm;
+}
+.percent{
+    margin-top: -9cm;
+    gap: 3cm;
+    margin-left: 14cm;
+}
+.blogcontainer{
+    display: flex;
+    gap: 1cm;
+    margin-left: 1cm;
+    margin-top: 4cm;
+}
+.blog1 img{
+    height: 7cm;
+    width: 10cm;
+}
+.map img{
+    height: 8cm;
+    width: 14cm;
+}
+.contactcontainer{
+    display: flex;
+    gap: 8cm;
+    margin-left: 1cm;
+}
+input{
+    width: 10cm;
+    height: 1.5cm;
+}
+button{
+    background-color: brown;
+    width: 3cm;
+    height: 1cm;
+}
+.logtop{
+    background-color: brown;
+}
+button:hover{
+    background-color: blue;
+}
